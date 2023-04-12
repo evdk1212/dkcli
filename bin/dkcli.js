@@ -10,6 +10,7 @@ async function init() {
 ⚠️ You need Npm globally installed to use dk-cli.
 ℹ️ To install Npm, visit 👉 https://nodejs.org/ \n
 ℹ️ For flutter project ensure flutter installed, to install visit 👉 https://flutter.dev/ \n
+🌐 Visit my portfolio 👉 https://iam-deepak.me \n
     `)
 
   await inquirer
