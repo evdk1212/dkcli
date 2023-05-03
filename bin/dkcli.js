@@ -6,7 +6,12 @@ inquirer.registerPrompt('search-list', require('inquirer-search-list'))
 
 async function init() {
   console.log(`
-🙂 Initializing dk-cli...
+🙂 Initializing
+___   _  __  ___  _  _  _ 
+|   \ | |/ / / __|| |(_)(_)
+| |) ||   < | (__ | || || |
+|___/ |_|\_\ \___||_||_||_|
+
 ⚠️ You need Npm globally installed to use dk-cli.
 ℹ️ To install Npm, visit 👉 https://nodejs.org/ \n
 ℹ️ For flutter project ensure flutter installed, to install visit 👉 https://flutter.dev/ \n

@@ -6,13 +6,13 @@ dkcli is a command-line interface tool that allows you to create projects quickl
 
 You can install dkcli globally using npm:
 
-npm install -g dkcli
+npm install -g dkclii
 
 ## Usage
 
 Run following command:
 
-npx dkcli
+npx dkclii
 
 
 ## License
